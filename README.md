@@ -1,4 +1,6 @@
 # Data leakage detection system
+## This Presentation was made possible by using research paper written by Taher Al-Shehari , Rakan A.Alsowail.
+> you find the complete document [here](https://www.mdpi.com/1099-4300/23/10/1258) </br>
 Presentation on Insider Data leakage detection system using one-hot encoding ,label encoding and SMOTE 
 
 # Topic of Discussion
